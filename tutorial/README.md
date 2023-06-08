@@ -2,9 +2,9 @@
 
 Fazendo o download:
 
-'''
+```
 curl -LO https://github.com/prometheus/prometheus/releases/download/v2.38.0/prometheus-2.38.0.linux-amd64.tar.gz
-'''
+```
 curl -LO https://github.com/prometheus/prometheus/releases/download/v2.38.0/prometheus-2.38.0.linux-amd64.tar.gz
  
 
